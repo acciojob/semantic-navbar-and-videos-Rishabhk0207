@@ -1,2 +1,9 @@
 
 /* Your CSS Code here. */
+a{
+	text-decoration:none;
+}
+video{
+	width:800px;
+	height:300px;
+}
